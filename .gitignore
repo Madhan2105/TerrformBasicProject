@@ -7,4 +7,6 @@
 
 # .tfvars files
 *.tfvars
+
+# .pem files
 *.pem
